@@ -1,0 +1,22 @@
+.custom-direction {
+  direction: ltr;
+}
+
+.pending {
+  color: gray;
+}
+
+
+.correct {
+  color: green;
+  font-weight: bold;
+}
+
+.incorrect {
+  color: red;
+  font-weight: bold;
+}
+
+.box--green {
+  color: green;
+}
